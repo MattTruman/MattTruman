@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MattTruman
-- 👀 I’m interested in SAS code
-- 🌱 I’m currently learning SAS code
-- 💞️ I’m looking to collaborate on SAS code
+- 👀 I’m interested in SAS
+- 🌱 I’m currently learning SAS
+- 💞️ I’m looking to collaborate on SAS
 
 <!---
 MattTruman/MattTruman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
